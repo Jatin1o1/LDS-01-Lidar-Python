@@ -1,10 +1,10 @@
 import serial
-import numpy as np
+import threading
 import matplotlib.pyplot as plt
 import math    
-import time
-import threading
-import numpy as np
+
+
+
 ser = serial.Serial ("/dev/ttyUSB0", baudrate=230400)
 
 
