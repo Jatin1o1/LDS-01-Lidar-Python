@@ -1,7 +1,7 @@
 # LDS-01-Lidar-Python
 Python script to view LDS-01 Lidar sensor data
 
-# Code explanation
+## Code explanation
 
 From the datasheet, we can see that a packet of data consists of 42 bytes (See Table: Data Information, pg. 5 of 8). However, you will note when reading the byte descriptions that each packet of data consists of:
 
